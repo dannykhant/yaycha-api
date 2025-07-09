@@ -1,2 +1,2 @@
-# yaycha
-Practicing React
+# yaycha-api
+Practicing Express.js
